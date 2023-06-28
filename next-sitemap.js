@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: 'https://startup-agency-modern.vercel.app',
+  siteUrl: 'frederikoadr.github.io',
   generateRobotsTxt: true,
   // optional
   // robotsTxtOptions: {
