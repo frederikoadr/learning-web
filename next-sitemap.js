@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: 'frederikoadr.github.io',
+  siteUrl: 'https://https://frederikoadr.github.io/learning-web',
   generateRobotsTxt: true,
   // optional
   // robotsTxtOptions: {
